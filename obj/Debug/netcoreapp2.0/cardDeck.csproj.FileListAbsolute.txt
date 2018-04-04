@@ -1,0 +1,10 @@
+/home/jmwiley/Desktop/DojoAssignments/netCore/cardDeck/bin/Debug/netcoreapp2.0/cardDeck.deps.json
+/home/jmwiley/Desktop/DojoAssignments/netCore/cardDeck/bin/Debug/netcoreapp2.0/cardDeck.runtimeconfig.json
+/home/jmwiley/Desktop/DojoAssignments/netCore/cardDeck/bin/Debug/netcoreapp2.0/cardDeck.runtimeconfig.dev.json
+/home/jmwiley/Desktop/DojoAssignments/netCore/cardDeck/bin/Debug/netcoreapp2.0/cardDeck.dll
+/home/jmwiley/Desktop/DojoAssignments/netCore/cardDeck/bin/Debug/netcoreapp2.0/cardDeck.pdb
+/home/jmwiley/Desktop/DojoAssignments/netCore/cardDeck/obj/Debug/netcoreapp2.0/cardDeck.csproj.CoreCompileInputs.cache
+/home/jmwiley/Desktop/DojoAssignments/netCore/cardDeck/obj/Debug/netcoreapp2.0/cardDeck.AssemblyInfoInputs.cache
+/home/jmwiley/Desktop/DojoAssignments/netCore/cardDeck/obj/Debug/netcoreapp2.0/cardDeck.AssemblyInfo.cs
+/home/jmwiley/Desktop/DojoAssignments/netCore/cardDeck/obj/Debug/netcoreapp2.0/cardDeck.dll
+/home/jmwiley/Desktop/DojoAssignments/netCore/cardDeck/obj/Debug/netcoreapp2.0/cardDeck.pdb
